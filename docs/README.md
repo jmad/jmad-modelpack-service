@@ -1,5 +1,5 @@
 [![Latest release](https://img.shields.io/github/release/jmad/jmad-modelpack-service.svg?maxAge=1000)](https://github.com/jmad/jmad-modelpack-service/releases)
-[![Build Status](https://travis-ci.com/jmad/jmad-modelpack-service.svg?branch=master)](https://travis-ci.com/jmad/jmad-modelpack-service)
+[![Build Status](https://dl.circleci.com/status-badge/img/gh/jmad/jmad-modelpack-service/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/jmad/jmad-modelpack-service/tree/master)
 ![License](https://img.shields.io/github/license/jmad/jmad-modelpack-service.svg)
 [![codecov](https://codecov.io/gh/jmad/jmad-modelpack-service/branch/master/graph/badge.svg)](https://codecov.io/gh/jmad/jmad-modelpack-service)
 [![Codacy code quality](https://api.codacy.com/project/badge/Grade/b830f8eafc0441199d126967bd87d08c)](https://www.codacy.com/app/jmad/jmad-modelpack-service?utm_source=github.com&utm_medium=referral&utm_content=jmad/jmad-modelpack-service&utm_campaign=Badge_Grade)
