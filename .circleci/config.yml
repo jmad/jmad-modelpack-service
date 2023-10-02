@@ -46,6 +46,8 @@ workflows:
   build-and-deploy-workflow:
     jobs:
       - build-and-deploy:
+          context:
+            - jmad-deploy
           filters:
             tags:
               # any tag
